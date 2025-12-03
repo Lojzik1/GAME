@@ -1,6 +1,6 @@
 # Název neni ještě
 
-**Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřek Holý]
+**Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřej Holý]
 
 Toto je dokumentace a vývojová příprava hry inspirované hrou Jump King.  
 Repo obsahuje první dvě kapitoly vývoje: základní koncepci a game design.
