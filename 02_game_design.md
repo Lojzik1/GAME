@@ -11,14 +11,12 @@
 - Jednoduché vizuální prostředí (pixel art / 2D styl)
 
 ## Ovládání
-- Šipky / WASD pro pohyb
-- Mezera / Space pro skok
-- Držení klávesy pro delší skok
+- Skákání je jediný pohyb
+- Držení klávesy (space) pro delší skok
 
 ## Zvuky a hudba
-- Menu a lobby
+- Menu
 - Skoky a dopady
-- Checkpoint
 - Game over
 
 ## Level design
