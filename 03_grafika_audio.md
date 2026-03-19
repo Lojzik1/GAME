@@ -34,7 +34,7 @@ Obrázky byly importovány do Godotu. Aby byl zachován "retro" feeling a ostré
 Pro označení konce úrovně jsem vytvořil sprite červené brány o velikosti 32x64 pixelů. Má výraznou barvu, aby na ni hráč okamžitě zaměřil pozornost, a je dvakrát vyšší než hráčská postava, aby do ní hráč proporčně "zapadl".
 
 *(Ukázka brány)*
-![Screenshot Brány](docs/gate_ukazka)
+![Screenshot Brány](docs/gate_ukazka.png)
 
 *(Ukázka nastavení Nearest filtru)*
 ![Screenshot nastavení filtru Nearest v Godotu](docs/godot_import_nearest.png)
