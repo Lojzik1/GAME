@@ -1,4 +1,4 @@
-# Název neni ještě
+# Slime Jump
 
 **Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřej Holý]
 
