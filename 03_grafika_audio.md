@@ -16,16 +16,16 @@ Pro hru byl zvolen styl **Pixel Art**. Tento styl je ideální pro precizní pla
 Postava byla navržena v editoru Piskel. Rozhodl jsem se pro modrou barvu těla pro silný kontrast a jednoduchý, geometrický tvar, který zajišťuje dobrou viditelnost i při malém rozlišení. Postava je zaoblený obdélník s dvěma bílými obdélníky jako oči (viz screenshot z designové fáze v editoru). Sprite byl následně vyexportován jako PNG.
 
 *(Design postavy v editoru Piskel)*
-`![Screenshot designu hráče v editoru Piskel](docs/piskel_ukazka.png)`
+![Screenshot designu hráče v editoru Piskel](docs/piskel_ukazka.png)
 
 *Finální sprite list:*
-`![Vyexportovaný sprite list hráče (PNG)](assets/sprites/hlavni_postava.png)`
+![Vyexportovaný sprite list hráče (PNG)](assets/sprites/hlavni_postava.png)
 
 **2. Prostředí (Tileset):**
 Pro tvorbu herního světa byl navržen jednoduchý tileset. Vytvořil jsem základní, jednobarevný dlaždicový blok pro podlahu a stěny, který je barevně odlišný od hráče.
 
 *(Ukázka dlaždice prostředí)*
-`![Ukázka tileset dlaždice (PNG)](docs/ground_ukazka.png)`
+![Ukázka tileset dlaždice (PNG)](docs/ground_ukazka.png)
 
 **3. Import do Godotu a nastavení:**
 Obrázky byly importovány do Godotu. Aby byl zachován "retro" feeling a ostré pixely, byl v nastavení importu (v Project Settings -> Rendering -> Textures) změněn **Texture Filter** z výchozího na **"Nearest"**. Tím se zabránilo nežádoucímu rozmazání grafiky.
@@ -34,16 +34,16 @@ Obrázky byly importovány do Godotu. Aby byl zachován "retro" feeling a ostré
 Pro označení konce úrovně jsem vytvořil sprite červené brány o velikosti 32x64 pixelů. Má výraznou barvu, aby na ni hráč okamžitě zaměřil pozornost, a je dvakrát vyšší než hráčská postava, aby do ní hráč proporčně "zapadl".
 
 *(Ukázka brány)*
-`![Screenshot Brány](docs/gate_ukazka)`
+![Screenshot Brány](docs/gate_ukazka)
 
 *(Ukázka nastavení Nearest filtru)*
-`![Screenshot nastavení filtru Nearest v Godotu](docs/godot_import_nearest.png)`
+![Screenshot nastavení filtru Nearest v Godotu](docs/godot_import_nearest.png)
 
 ### Ukázka implementace ve scéně
 Vytvořil jsem základní zkušební scénu v Godotu, která demonstruje viditelnost hráče na platformách.
 
 *(Maketa herní scény v Godotu)*
-`![Screenshot scény v Godotu s hráčem a platformou](docs/godot_scene.png)`
+![Screenshot scény v Godotu s hráčem a platformou](docs/godot_scene.png)
 
 ---
 
