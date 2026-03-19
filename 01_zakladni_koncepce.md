@@ -1,7 +1,7 @@
 # 01 - Základní koncepce
 
 ## Název hry
-**Jump Slime**
+**Slime Jump**
 
 ## Žánr
 Platformovka
