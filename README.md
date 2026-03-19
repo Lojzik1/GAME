@@ -2,7 +2,7 @@
 
 **Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřej Holý]
 
-Toto je dokumentace a vývojová příprava hry inspirované hrou Jump King.  
+Toto je dokumentace a vývojová příprava hry inspirované hrou Jump Slime.  
 Repo obsahuje první dvě kapitoly vývoje: základní koncepci a game design.
 
 ## Obsah repozitáře
