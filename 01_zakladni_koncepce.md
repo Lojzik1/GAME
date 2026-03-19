@@ -1,7 +1,7 @@
 # 01 - Základní koncepce
 
 ## Název hry
-**Ještě není**
+**Jump Slime**
 
 ## Žánr
 Platformovka
