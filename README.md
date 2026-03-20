@@ -1,6 +1,6 @@
 # Slime Jump
 
-**Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřej Holý]
+**Autoři:** [Alois Kaňák, Ondřej Kvapil, Ondřej Holý, Adam Křovina]
 
 Toto je dokumentace a vývojová příprava hry inspirované hrou Slime Jump.  
 Repo obsahuje zatím tři kapitoly vývoje: základní koncepci, game design a grafika a audio
