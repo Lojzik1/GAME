@@ -51,7 +51,7 @@ Vytvořil jsem základní zkušební scénu v Godotu, která demonstruje viditel
 
 ### Zvukový styl a Zdroje
 Ke zvolené pixel-artové grafice se nejlépe hodí zvukové efekty a hudba, které doplňují atmosféru hardcore plošinovky. Design zvuku je navíc tematicky propojen s hlavní postavou (sliz/blob), takže místo tvrdých 8-bitových zvuků byly zvoleny více organické a "mokré" zvuky.
-* **Zdroje audia:** Veškeré zvukové efekty (SFX) i hudba v pozadí byly staženy z volně dostupné databáze [Freesound.org](https://freesound.org/).
+* **Zdroje audia:** Veškeré zvukové efekty (SFX) i hudba v pozadí byly staženy z volně dostupné databáze [Freesound.org](https://freesound.org/) a [jsfxr.me](https://sfxr.me/)
 * **Formáty:** Všechny stažené soubory jsou ve formátu WAV.
 
 ### Seznam zvuků
